@@ -1,20 +1,20 @@
 [
   {
-    "name": "prateek-portfolio",
-    "url": "https://prateekverma.vercel.app/",
-    "icon": "https://icons.duckduckgo.com/ip3/prateekverma.vercel.app.ico",
-    "slug": "prateek-portfolio",
+    "name": "prateek-weatgher-app",
+    "url": "https://weather-app-nine-gamma-44.vercel.app/",
+    "icon": "https://icons.duckduckgo.com/ip3/weather-app-nine-gamma-44.vercel.app.ico",
+    "slug": "prateek-weatgher-app",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 383,
-    "timeWeek": 383,
-    "timeMonth": 383,
-    "timeYear": 383,
+    "time": 228,
+    "timeDay": 228,
+    "timeWeek": 228,
+    "timeMonth": 228,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   }
 ]
